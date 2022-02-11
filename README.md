@@ -1,3 +1,4 @@
 # git_test
-Git Test!
-Hello Odin!
+Git Test!\n
+Hello Odin!\n
+New line test!
